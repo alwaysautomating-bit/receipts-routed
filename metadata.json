@@ -1,0 +1,7 @@
+{
+  "name": "Remix: SYNCd Lite; just receipts",
+  "description": "A minimal invoice capture and routing tool that turns messy inputs into structured data.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
